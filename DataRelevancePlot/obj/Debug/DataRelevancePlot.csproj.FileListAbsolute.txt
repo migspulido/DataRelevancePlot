@@ -1,0 +1,8 @@
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\bin\Debug\DataRelevancePlot.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\bin\Debug\DataRelevancePlot.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\obj\Debug\DataRelevancePlot.Form1.resources
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\obj\Debug\DataRelevancePlot.Properties.Resources.resources
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\obj\Debug\DataRelevancePlot.csproj.GenerateResource.Cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\obj\Debug\DataRelevancePlot.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\DataRelevancePlot\DataRelevancePlot\obj\Debug\DataRelevancePlot.pdb
